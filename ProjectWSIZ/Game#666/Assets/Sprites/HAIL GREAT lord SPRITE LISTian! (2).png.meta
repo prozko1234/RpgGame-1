@@ -1,0 +1,2515 @@
+fileFormatVersion: 2
+guid: 03f2ac87b907b8144938002ba45b8888
+timeCreated: 1554990606
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HAIL GREAT lord SPRITE LISTian! (2)_0
+    21300002: HAIL GREAT lord SPRITE LISTian! (2)_1
+    21300004: HAIL GREAT lord SPRITE LISTian! (2)_2
+    21300006: HAIL GREAT lord SPRITE LISTian! (2)_3
+    21300008: HAIL GREAT lord SPRITE LISTian! (2)_4
+    21300010: HAIL GREAT lord SPRITE LISTian! (2)_5
+    21300012: HAIL GREAT lord SPRITE LISTian! (2)_6
+    21300014: HAIL GREAT lord SPRITE LISTian! (2)_7
+    21300016: HAIL GREAT lord SPRITE LISTian! (2)_8
+    21300018: HAIL GREAT lord SPRITE LISTian! (2)_9
+    21300020: HAIL GREAT lord SPRITE LISTian! (2)_10
+    21300022: HAIL GREAT lord SPRITE LISTian! (2)_11
+    21300024: HAIL GREAT lord SPRITE LISTian! (2)_12
+    21300026: HAIL GREAT lord SPRITE LISTian! (2)_13
+    21300028: HAIL GREAT lord SPRITE LISTian! (2)_14
+    21300030: HAIL GREAT lord SPRITE LISTian! (2)_15
+    21300032: HAIL GREAT lord SPRITE LISTian! (2)_16
+    21300034: HAIL GREAT lord SPRITE LISTian! (2)_17
+    21300036: HAIL GREAT lord SPRITE LISTian! (2)_18
+    21300038: HAIL GREAT lord SPRITE LISTian! (2)_19
+    21300040: HAIL GREAT lord SPRITE LISTian! (2)_20
+    21300042: HAIL GREAT lord SPRITE LISTian! (2)_21
+    21300044: HAIL GREAT lord SPRITE LISTian! (2)_22
+    21300046: HAIL GREAT lord SPRITE LISTian! (2)_23
+    21300048: HAIL GREAT lord SPRITE LISTian! (2)_24
+    21300050: HAIL GREAT lord SPRITE LISTian! (2)_25
+    21300052: HAIL GREAT lord SPRITE LISTian! (2)_26
+    21300054: HAIL GREAT lord SPRITE LISTian! (2)_27
+    21300056: HAIL GREAT lord SPRITE LISTian! (2)_28
+    21300058: HAIL GREAT lord SPRITE LISTian! (2)_29
+    21300060: HAIL GREAT lord SPRITE LISTian! (2)_30
+    21300062: HAIL GREAT lord SPRITE LISTian! (2)_31
+    21300064: HAIL GREAT lord SPRITE LISTian! (2)_32
+    21300066: HAIL GREAT lord SPRITE LISTian! (2)_33
+    21300068: HAIL GREAT lord SPRITE LISTian! (2)_34
+    21300070: HAIL GREAT lord SPRITE LISTian! (2)_35
+    21300072: HAIL GREAT lord SPRITE LISTian! (2)_36
+    21300074: HAIL GREAT lord SPRITE LISTian! (2)_37
+    21300076: HAIL GREAT lord SPRITE LISTian! (2)_38
+    21300078: HAIL GREAT lord SPRITE LISTian! (2)_39
+    21300080: HAIL GREAT lord SPRITE LISTian! (2)_40
+    21300082: HAIL GREAT lord SPRITE LISTian! (2)_41
+    21300084: HAIL GREAT lord SPRITE LISTian! (2)_42
+    21300086: HAIL GREAT lord SPRITE LISTian! (2)_43
+    21300088: HAIL GREAT lord SPRITE LISTian! (2)_44
+    21300090: HAIL GREAT lord SPRITE LISTian! (2)_45
+    21300092: HAIL GREAT lord SPRITE LISTian! (2)_46
+    21300094: HAIL GREAT lord SPRITE LISTian! (2)_47
+    21300096: HAIL GREAT lord SPRITE LISTian! (2)_48
+    21300098: HAIL GREAT lord SPRITE LISTian! (2)_49
+    21300100: HAIL GREAT lord SPRITE LISTian! (2)_50
+    21300102: HAIL GREAT lord SPRITE LISTian! (2)_51
+    21300104: HAIL GREAT lord SPRITE LISTian! (2)_52
+    21300106: HAIL GREAT lord SPRITE LISTian! (2)_53
+    21300108: HAIL GREAT lord SPRITE LISTian! (2)_54
+    21300110: HAIL GREAT lord SPRITE LISTian! (2)_55
+    21300112: HAIL GREAT lord SPRITE LISTian! (2)_56
+    21300114: HAIL GREAT lord SPRITE LISTian! (2)_57
+    21300116: HAIL GREAT lord SPRITE LISTian! (2)_58
+    21300118: HAIL GREAT lord SPRITE LISTian! (2)_59
+    21300120: HAIL GREAT lord SPRITE LISTian! (2)_60
+    21300122: HAIL GREAT lord SPRITE LISTian! (2)_61
+    21300124: HAIL GREAT lord SPRITE LISTian! (2)_62
+    21300126: HAIL GREAT lord SPRITE LISTian! (2)_63
+    21300128: HAIL GREAT lord SPRITE LISTian! (2)_64
+    21300130: HAIL GREAT lord SPRITE LISTian! (2)_65
+    21300132: HAIL GREAT lord SPRITE LISTian! (2)_66
+    21300134: HAIL GREAT lord SPRITE LISTian! (2)_67
+    21300136: HAIL GREAT lord SPRITE LISTian! (2)_68
+    21300138: HAIL GREAT lord SPRITE LISTian! (2)_69
+    21300140: HAIL GREAT lord SPRITE LISTian! (2)_70
+    21300142: HAIL GREAT lord SPRITE LISTian! (2)_71
+    21300144: HAIL GREAT lord SPRITE LISTian! (2)_72
+    21300146: HAIL GREAT lord SPRITE LISTian! (2)_73
+    21300148: HAIL GREAT lord SPRITE LISTian! (2)_74
+    21300150: HAIL GREAT lord SPRITE LISTian! (2)_75
+    21300152: HAIL GREAT lord SPRITE LISTian! (2)_76
+    21300154: HAIL GREAT lord SPRITE LISTian! (2)_77
+    21300156: HAIL GREAT lord SPRITE LISTian! (2)_78
+    21300158: HAIL GREAT lord SPRITE LISTian! (2)_79
+    21300160: HAIL GREAT lord SPRITE LISTian! (2)_80
+    21300162: HAIL GREAT lord SPRITE LISTian! (2)_81
+    21300164: HAIL GREAT lord SPRITE LISTian! (2)_82
+    21300166: HAIL GREAT lord SPRITE LISTian! (2)_83
+    21300168: HAIL GREAT lord SPRITE LISTian! (2)_84
+    21300170: HAIL GREAT lord SPRITE LISTian! (2)_85
+    21300172: HAIL GREAT lord SPRITE LISTian! (2)_86
+    21300174: HAIL GREAT lord SPRITE LISTian! (2)_87
+    21300176: HAIL GREAT lord SPRITE LISTian! (2)_88
+    21300178: HAIL GREAT lord SPRITE LISTian! (2)_89
+    21300180: HAIL GREAT lord SPRITE LISTian! (2)_90
+    21300182: HAIL GREAT lord SPRITE LISTian! (2)_91
+    21300184: HAIL GREAT lord SPRITE LISTian! (2)_92
+    21300186: HAIL GREAT lord SPRITE LISTian! (2)_93
+    21300188: HAIL GREAT lord SPRITE LISTian! (2)_94
+    21300190: HAIL GREAT lord SPRITE LISTian! (2)_95
+    21300192: HAIL GREAT lord SPRITE LISTian! (2)_96
+    21300194: HAIL GREAT lord SPRITE LISTian! (2)_97
+    21300196: HAIL GREAT lord SPRITE LISTian! (2)_98
+    21300198: HAIL GREAT lord SPRITE LISTian! (2)_99
+    21300200: HAIL GREAT lord SPRITE LISTian! (2)_100
+    21300202: HAIL GREAT lord SPRITE LISTian! (2)_101
+    21300204: HAIL GREAT lord SPRITE LISTian! (2)_102
+    21300206: HAIL GREAT lord SPRITE LISTian! (2)_103
+    21300208: HAIL GREAT lord SPRITE LISTian! (2)_104
+    21300210: HAIL GREAT lord SPRITE LISTian! (2)_105
+    21300212: HAIL GREAT lord SPRITE LISTian! (2)_106
+    21300214: HAIL GREAT lord SPRITE LISTian! (2)_107
+    21300216: HAIL GREAT lord SPRITE LISTian! (2)_108
+    21300218: HAIL GREAT lord SPRITE LISTian! (2)_109
+    21300220: HAIL GREAT lord SPRITE LISTian! (2)_110
+    21300222: HAIL GREAT lord SPRITE LISTian! (2)_111
+    21300224: HAIL GREAT lord SPRITE LISTian! (2)_112
+    21300226: HAIL GREAT lord SPRITE LISTian! (2)_113
+    21300228: HAIL GREAT lord SPRITE LISTian! (2)_114
+    21300230: HAIL GREAT lord SPRITE LISTian! (2)_115
+    21300232: HAIL GREAT lord SPRITE LISTian! (2)_116
+    21300234: HAIL GREAT lord SPRITE LISTian! (2)_117
+    21300236: HAIL GREAT lord SPRITE LISTian! (2)_118
+    21300238: HAIL GREAT lord SPRITE LISTian! (2)_119
+    21300240: HAIL GREAT lord SPRITE LISTian! (2)_120
+    21300242: HAIL GREAT lord SPRITE LISTian! (2)_121
+    21300244: HAIL GREAT lord SPRITE LISTian! (2)_122
+    21300246: HAIL GREAT lord SPRITE LISTian! (2)_123
+    21300248: HAIL GREAT lord SPRITE LISTian! (2)_124
+    21300250: HAIL GREAT lord SPRITE LISTian! (2)_125
+    21300252: HAIL GREAT lord SPRITE LISTian! (2)_126
+    21300254: HAIL GREAT lord SPRITE LISTian! (2)_127
+    21300256: HAIL GREAT lord SPRITE LISTian! (2)_128
+    21300258: HAIL GREAT lord SPRITE LISTian! (2)_129
+    21300260: HAIL GREAT lord SPRITE LISTian! (2)_130
+    21300262: HAIL GREAT lord SPRITE LISTian! (2)_131
+    21300264: HAIL GREAT lord SPRITE LISTian! (2)_132
+    21300266: HAIL GREAT lord SPRITE LISTian! (2)_133
+    21300268: HAIL GREAT lord SPRITE LISTian! (2)_134
+    21300270: HAIL GREAT lord SPRITE LISTian! (2)_135
+    21300272: HAIL GREAT lord SPRITE LISTian! (2)_136
+    21300274: HAIL GREAT lord SPRITE LISTian! (2)_137
+    21300276: HAIL GREAT lord SPRITE LISTian! (2)_138
+    21300278: HAIL GREAT lord SPRITE LISTian! (2)_139
+    21300280: HAIL GREAT lord SPRITE LISTian! (2)_140
+    21300282: HAIL GREAT lord SPRITE LISTian! (2)_141
+    21300284: HAIL GREAT lord SPRITE LISTian! (2)_142
+    21300286: HAIL GREAT lord SPRITE LISTian! (2)_143
+    21300288: HAIL GREAT lord SPRITE LISTian! (2)_144
+    21300290: HAIL GREAT lord SPRITE LISTian! (2)_145
+    21300292: HAIL GREAT lord SPRITE LISTian! (2)_146
+    21300294: HAIL GREAT lord SPRITE LISTian! (2)_147
+    21300296: HAIL GREAT lord SPRITE LISTian! (2)_148
+    21300298: HAIL GREAT lord SPRITE LISTian! (2)_149
+    21300300: HAIL GREAT lord SPRITE LISTian! (2)_150
+    21300302: HAIL GREAT lord SPRITE LISTian! (2)_151
+    21300304: HAIL GREAT lord SPRITE LISTian! (2)_152
+    21300306: HAIL GREAT lord SPRITE LISTian! (2)_153
+    21300308: HAIL GREAT lord SPRITE LISTian! (2)_154
+    21300310: HAIL GREAT lord SPRITE LISTian! (2)_155
+    21300312: HAIL GREAT lord SPRITE LISTian! (2)_156
+    21300314: HAIL GREAT lord SPRITE LISTian! (2)_157
+    21300316: HAIL GREAT lord SPRITE LISTian! (2)_158
+    21300318: HAIL GREAT lord SPRITE LISTian! (2)_159
+    21300320: HAIL GREAT lord SPRITE LISTian! (2)_160
+    21300322: HAIL GREAT lord SPRITE LISTian! (2)_161
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3072
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3008
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2976
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2944
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_87
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2912
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2880
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2848
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2816
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2720
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2720
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2720
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2720
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2720
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_152
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2592
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2560
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2560
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2560
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HAIL GREAT lord SPRITE LISTian! (2)_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
