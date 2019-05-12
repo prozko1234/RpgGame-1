@@ -16,8 +16,6 @@ public class PlayerManager : MonoBehaviour {
 	void Update () {
         bar.transform.localScale = new Vector3(playerHealth.GetHealthPercent(), 1f);
     }
-
-
     //DAMAGE
     //private void OnTriggerEnter2D(Collider2D collision)
     //{

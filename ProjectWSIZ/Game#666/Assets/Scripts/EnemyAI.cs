@@ -8,6 +8,7 @@ public class EnemyAI : MonoBehaviour {
     HealthSystem enemyHealth;
     private float wait_timer;
     private float wait_time = 2;
+    
 
     void Start()
     {
@@ -49,7 +50,7 @@ public class EnemyAI : MonoBehaviour {
         wait_time -= Time.deltaTime;
         bar.transform.localScale = new Vector3(enemyHealth.GetHealthPercent(), 1f);
     }
-    
+
     private void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player" && wait_time < 0)
@@ -58,4 +59,5 @@ public class EnemyAI : MonoBehaviour {
             wait_time = 2;
         }
     }
+
 }
