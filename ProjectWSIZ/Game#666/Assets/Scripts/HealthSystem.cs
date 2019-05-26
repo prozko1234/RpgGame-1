@@ -18,8 +18,10 @@ public class HealthSystem : MonoBehaviour
     {
             currentHealth -= damage;
             Debug.Log("Made " + damage + " damage." + "\n Health left: " + currentHealth);
-        if (currentHealth <= 0)
+        if (currentHealth <= 0 && gameObject.tag == "Player")
             Reload();
+        else if(currentHealth <= 0)
+            gameObject.SetActive(false);
     }
 
     void Heal(float heal)
@@ -27,6 +29,8 @@ public class HealthSystem : MonoBehaviour
         if (currentHealth <= maxHealth)
         {
             currentHealth += heal;
+            if (currentHealth > maxHealth)
+                currentHealth = maxHealth;
             Debug.Log("Made " + heal + " heal.");
         }
         else Debug.Log("You allready have max health");

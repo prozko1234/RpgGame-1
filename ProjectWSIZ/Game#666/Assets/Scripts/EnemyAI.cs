@@ -4,16 +4,19 @@ using UnityEngine;
 
 public class EnemyAI : MonoBehaviour {
     public GameObject bar;
-    float damage = 10;
+    public float damage = 10;
     HealthSystem enemyHealth;
-    private float wait_timer;
-    private float wait_time = 2;
-    Transform target;
+    GameObject target;
     public float speed;
-    
+
+    public float attackRange;
+    private float lastAttackTime;
+    public float attackDelay;
+    private float chaseRange = 3;
+
     void Start()
     {
-        target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        target = GameObject.FindGameObjectWithTag("Player");
         enemyHealth = gameObject.GetComponent<HealthSystem>();
         gameObject.SendMessage("SetHp", 100);
     }
@@ -40,31 +43,48 @@ public class EnemyAI : MonoBehaviour {
     //    }
     //}
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Player")
-        {
-            collision.gameObject.SendMessage("Damage", damage);
-        }
-    }
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if (collision.gameObject.tag == "Player")
+    //    {
+    //        collision.gameObject.SendMessage("Damage", damage);
+    //    }
+    //}
     private void Update()
     {
-        wait_time -= Time.deltaTime;
-        bar.transform.localScale = new Vector3(enemyHealth.GetHealthPercent(), 1f);
+        float distanceToPlayer = Vector3.Distance(transform.position, target.transform.position);
+        BarUpdate();
 
-        if (Vector2.Distance(transform.position,target.position) < 3)
-        {
-            transform.position = Vector2.MoveTowards(transform.position,target.position,speed * Time.deltaTime);
-        }
+        Chase(distanceToPlayer);
+        
+        Attack(distanceToPlayer);
+        
     }
-
-    private void OnTriggerStay2D(Collider2D collision)
+    
+    private void Attack(float distanceToPlayer)
     {
-        if (collision.gameObject.tag == "Player" && wait_time < 0)
+        if (Time.time > lastAttackTime + attackDelay)
         {
-            collision.gameObject.SendMessage("Damage", damage);
-            wait_time = 2;
+            if (distanceToPlayer <= attackRange)
+            {
+                Debug.Log("Atacking player");
+                target.SendMessage("Damage", damage);
+                lastAttackTime = Time.time;
+            }
+            
         }
     }
 
+    private void BarUpdate()
+    {
+        bar.transform.localScale = new Vector3(enemyHealth.GetHealthPercent(), 1f);
+    }
+
+    private void Chase(float distanceToPlayer)
+    {
+        if (distanceToPlayer < chaseRange && !(distanceToPlayer <= attackRange))
+        {
+            transform.position = Vector2.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
+        }
+    }
 }
