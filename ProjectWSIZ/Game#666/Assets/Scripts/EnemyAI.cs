@@ -1,13 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EnemyAI : MonoBehaviour {
     public GameObject bar;
     public float damage = 10;
     HealthSystem enemyHealth;
     GameObject target;
+    public Text hpNumber;
     public float speed;
+    public GameObject damageBurst;
 
     public float attackRange;
     private float lastAttackTime;
@@ -78,6 +81,7 @@ public class EnemyAI : MonoBehaviour {
     private void BarUpdate()
     {
         bar.transform.localScale = new Vector3(enemyHealth.GetHealthPercent(), 1f);
+        hpNumber.text = (enemyHealth.GetHealthPercent() * 100).ToString();
     }
 
     private void Chase(float distanceToPlayer)
