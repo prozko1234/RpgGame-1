@@ -4,18 +4,25 @@ using UnityEngine;
 
 public class Weapon_Sword1 : MonoBehaviour {
     EdgeCollider2D collisionElem;
-	private float damage = 10;
+	private float damage = 5;
+    private float currentDamage;
     private string weaponName = "Bone Sword";
     private bool attacking;
     public GameObject damageBurst;
     PlayerManager playerManager;
 
-    public Weapon_Sword1() { }
+    private PlayerStats playerStats;
 
     private void Start()
     {
         playerManager = gameObject.GetComponentInParent<PlayerManager>();
-        collisionElem = gameObject.GetComponent<EdgeCollider2D>();
+        playerStats = FindObjectOfType<PlayerStats>();
+    }
+
+
+    private void Update()
+    {
+        currentDamage = damage + playerStats.currentAttack;
     }
 
     public float GetDamage()
@@ -39,8 +46,9 @@ public class Weapon_Sword1 : MonoBehaviour {
         {
             Debug.Log("Hit enemy");
             attacking = true;
-            collision.gameObject.SendMessage("Damage", damage);
-            Instantiate(damageBurst, collision.gameObject.transform.position, collision.gameObject.transform.rotation);
+            collision.gameObject.SendMessage("Damage", currentDamage);
+            var clone = Instantiate(damageBurst, collision.gameObject.transform.position, collision.gameObject.transform.rotation);
+            Destroy(clone, 1.0f);
         }
     }
 

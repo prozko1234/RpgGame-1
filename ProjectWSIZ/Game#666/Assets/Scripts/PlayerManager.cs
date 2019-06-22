@@ -1,17 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
 public class PlayerManager : MonoBehaviour {
-    public GameObject bar;
-    public Text hpNumber;
-    HealthSystem playerHealth;
+    public HealthSystem playerHealth;
     private Animator anim;
     private Rigidbody2D myRigidBody;
-
-    float damage = 10;
+    private GameHandler gameHandler;
+    
     private bool attacking;
     public float attackTime;
     private float lastAttackTime;
@@ -20,31 +19,30 @@ public class PlayerManager : MonoBehaviour {
         myRigidBody = gameObject.GetComponent<Rigidbody2D>();
         playerHealth = gameObject.GetComponent<HealthSystem>();
         anim = gameObject.GetComponent<Animator>();
-        gameObject.SendMessage("SetHp", 100);
+        gameHandler = FindObjectOfType<GameHandler>();
     }
 	
 	void Update () {
-        HealthBarUpdate();
+        CheckIsAlive();
         Attack();
-        
     }
-    //DAMAGE
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    if (collision.gameObject.tag == "Enemy")
-    //    {
-    //        collision.gameObject.SendMessage("Damage", damage);
-    //    }
-    //}
-    void HealthBarUpdate()
+
+    public void CheckIsAlive()
     {
-        bar.transform.localScale = new Vector3(playerHealth.GetHealthPercent(), 1f);
-        hpNumber.text = (playerHealth.GetHealthPercent() * 100).ToString();
+        if (playerHealth.currentHealth <= 0) {
+            gameHandler.Save();
+            Reload();
+        }
+    }
+    
+    void Reload()
+    {
+        SceneManager.LoadScene(0);
     }
 
     private void Attack()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             if (Time.time > lastAttackTime + attackTime)
             {

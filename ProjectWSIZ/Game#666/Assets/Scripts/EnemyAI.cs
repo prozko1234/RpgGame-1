@@ -5,54 +5,28 @@ using UnityEngine.UI;
 
 public class EnemyAI : MonoBehaviour {
     public GameObject bar;
-    public float damage = 10;
+    public int damage = 10;
     HealthSystem enemyHealth;
     GameObject target;
     public Text hpNumber;
     public float speed;
     public GameObject damageBurst;
+    private PlayerStats playerStats;
 
     public float attackRange;
     private float lastAttackTime;
     public float attackDelay;
     private float chaseRange = 3;
+    public int expToGive;
 
     void Start()
     {
         target = GameObject.FindGameObjectWithTag("Player");
         enemyHealth = gameObject.GetComponent<HealthSystem>();
-        gameObject.SendMessage("SetHp", 100);
+        gameObject.SendMessage("SetHp", 50);
+        playerStats = FindObjectOfType<PlayerStats>();
     }
-
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    if (collision.gameObject.tag == "Player" && gameObject.GetComponent<BoxCollider2D>().isTrigger)
-    //    {
-    //        collision.gameObject.SendMessage("Damage", damage);
-    //    }
-    //}
-
-    //private void OnCollisionStay2D(Collision2D collision)
-    //{
-    //    if (collision.gameObject.tag == "Player" && gameObject.GetComponent<BoxCollider2D>().isTrigger)
-    //    {
-    //        if (wait_timer < wait_time)
-    //            wait_timer += Time.deltaTime;
-    //        else
-    //        {
-    //            collision.gameObject.SendMessage("Damage", damage);
-    //            wait_timer = 2;
-    //        }
-    //    }
-    //}
-
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    if (collision.gameObject.tag == "Player")
-    //    {
-    //        collision.gameObject.SendMessage("Damage", damage);
-    //    }
-    //}
+    
     private void Update()
     {
         float distanceToPlayer = Vector3.Distance(transform.position, target.transform.position);
@@ -62,6 +36,11 @@ public class EnemyAI : MonoBehaviour {
         
         Attack(distanceToPlayer);
         
+        if(enemyHealth.GetCurrentHealth() <= 0)
+        {
+            gameObject.SetActive(false);
+            playerStats.AddExperience(expToGive);
+        }
     }
     
     private void Attack(float distanceToPlayer)
@@ -74,14 +53,13 @@ public class EnemyAI : MonoBehaviour {
                 target.SendMessage("Damage", damage);
                 lastAttackTime = Time.time;
             }
-            
         }
     }
 
     private void BarUpdate()
     {
         bar.transform.localScale = new Vector3(enemyHealth.GetHealthPercent(), 1f);
-        hpNumber.text = (enemyHealth.GetHealthPercent() * 100).ToString();
+        hpNumber.text = (enemyHealth.GetCurrentHealth()).ToString();
     }
 
     private void Chase(float distanceToPlayer)

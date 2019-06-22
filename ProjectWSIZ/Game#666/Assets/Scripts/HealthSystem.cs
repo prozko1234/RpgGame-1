@@ -1,11 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class HealthSystem : MonoBehaviour
 {
-    float maxHealth;
-    float currentHealth;    
+    public float maxHealth;
+    public float currentHealth;    
     
     void SetHp(float health)
     {
@@ -13,15 +14,11 @@ public class HealthSystem : MonoBehaviour
         currentHealth = maxHealth;
         Debug.Log("Current Hp setted to: " + currentHealth + "Max Hp setted to: " + maxHealth);
     }
-    
+
     void Damage(float damage)
     {
             currentHealth -= damage;
             Debug.Log("Made " + damage + " damage." + "\n Health left: " + currentHealth);
-        if (currentHealth <= 0 && gameObject.tag == "Player")
-            Reload();
-        else if(currentHealth <= 0)
-            gameObject.SetActive(false);
     }
 
     void Heal(float heal)
@@ -51,8 +48,17 @@ public class HealthSystem : MonoBehaviour
         return maxHealth;
     }
 
-    void Reload()
+    public void SetMaxHp(float hp)
     {
-        Application.LoadLevel(0);
+        this.maxHealth = hp;
+    }
+
+    public void SetAddCurrentHp(float hp)
+    {
+        this.currentHealth += hp;
+    }
+    public void SetCurrentHp(float hp)
+    {
+        currentHealth = hp;
     }
 }
