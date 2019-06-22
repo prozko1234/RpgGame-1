@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*! \brief PlayerStartPoint description.
+ *         Handles spawning between areas.
+ */
 public class PlayerStartPoint : MonoBehaviour {
 
     private PlayerManager playerManager;
@@ -11,8 +13,7 @@ public class PlayerStartPoint : MonoBehaviour {
     public Vector2 startDirection;
 
     public string pointName;
-
-	// Use this for initialization
+    
 	void Start () {
         playerManager = FindObjectOfType<PlayerManager>();
         playerManager.transform.position = transform.position;
@@ -21,8 +22,4 @@ public class PlayerStartPoint : MonoBehaviour {
         cameraFollow.transform.position = new Vector3(transform.position.x, transform.position.y, cameraFollow.transform.position.z);
     }
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }

@@ -1,7 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*! \brief PlayerMovement description.
+ *         Handles player movement.
+ *
+ *  This script providse functionality for player's object's movement.
+ */
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed;
@@ -70,12 +74,19 @@ public class PlayerMovement : MonoBehaviour
         anim.SetFloat("LastMoveX", lastMove.x);
         anim.SetFloat("LastMoveY", lastMove.y);
     }
-
+    //! Get last move method.
+    /*!
+     * Gets last Vector2 as last move.
+     * \return Vector2 last move.
+    */
     public Vector2 GetLastMove()
     {
         return lastMove;
     }
-
+    //! Set last move method.
+    /*!
+     * Sets last Vector2 as last move
+    */
     public void SetLastMove(Vector2 lastMove)
     {
         this.lastMove = lastMove;

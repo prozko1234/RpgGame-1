@@ -230,7 +230,6 @@
     <Compile Include="Assets\Scripts\DialogHolder.cs" />
     <Compile Include="Assets\Scripts\DialogManager.cs" />
     <Compile Include="Assets\Scripts\EnemyAI.cs" />
-    <Compile Include="Assets\Scripts\EnemyFollow.cs" />
     <Compile Include="Assets\Scripts\GameHandler.cs" />
     <Compile Include="Assets\Scripts\HealingObjects.cs" />
     <Compile Include="Assets\Scripts\HealthSystem.cs" />

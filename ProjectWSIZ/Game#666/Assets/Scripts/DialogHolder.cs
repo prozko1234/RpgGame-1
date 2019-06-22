@@ -1,7 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*! \brief DialogHolder description.
+ *         Script provides dialog functionality for game object.
+ *
+ *  This script makes dialog appear on trigger with "Player" object.
+ */
 public class DialogHolder : MonoBehaviour {
 
     public string dialogue;
@@ -12,10 +16,6 @@ public class DialogHolder : MonoBehaviour {
 	void Start () {
         dialogManager = FindObjectOfType<DialogManager>();
     }
-	
-	void Update () {
-		
-	}
 
     private void OnTriggerStay2D(Collider2D collision)
     {

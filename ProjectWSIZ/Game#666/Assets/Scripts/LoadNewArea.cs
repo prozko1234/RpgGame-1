@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+/*! \brief LoadNewArea description.
+ *         Handles level loading.
+ *
+ *  This script handles loading different scenes.
+ */ 
 public class LoadNewArea : MonoBehaviour {
 
     public string levelToLoad;
@@ -16,11 +20,6 @@ public class LoadNewArea : MonoBehaviour {
         gameHandler = FindObjectOfType<GameHandler>();
     }
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag== "Player")
@@ -28,7 +27,11 @@ public class LoadNewArea : MonoBehaviour {
             LoadLevel(levelToLoad);
         }
     }
-
+    //! Load level method.
+    /*!
+     * Loads setted scene.
+      \param scene name of scene to load
+    */
     private void LoadLevel(string scene)
     {
         SceneManager.LoadScene(scene);

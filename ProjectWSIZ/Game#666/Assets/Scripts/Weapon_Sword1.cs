@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*! \brief Weapon_Sword1 description.
+ *         Handles weapon functionality.
+ */
 public class Weapon_Sword1 : MonoBehaviour {
     EdgeCollider2D collisionElem;
 	private float damage = 5;
@@ -18,23 +20,25 @@ public class Weapon_Sword1 : MonoBehaviour {
         playerManager = gameObject.GetComponentInParent<PlayerManager>();
         playerStats = FindObjectOfType<PlayerStats>();
     }
-
-
+    
     private void Update()
     {
         currentDamage = damage + playerStats.currentAttack;
     }
-
+    //! Get damage method.
+    /*!
+     * Gets weapons damage and returns it.
+     * \return weapons damage.
+    */
     public float GetDamage()
     {
         return damage;
     }
-
-    public string GetWeaponName()
-    {
-        return weaponName;
-    }
-    
+    //! Get collision state method.
+    /*!
+     * Gets weapons state, is it collide or not.
+     * \return is it collide or not.
+    */
     public bool GetCollisionState()
     {
         return attacking;

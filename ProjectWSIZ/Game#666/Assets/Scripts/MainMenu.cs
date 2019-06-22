@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+/*! \brief MainMenu description.
+ *         Handles main menu management.
+ *
+ *  This script handles main menu functionality.
+ */
 public class MainMenu : MonoBehaviour {
 
     private GameHandler gameHandler;
@@ -11,13 +15,18 @@ public class MainMenu : MonoBehaviour {
     {
         gameHandler = FindObjectOfType<GameHandler>();
     }
-
+    //! Play game method.
+    /*!
+     * Loads game scene.
+    */
     public void PlayGame()
     {
-       // gameHandler.ResetStats();
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
-
+    //! Quit game method.
+    /*!
+     * Closes game.
+    */
     public void QuitGame()
     {
         Debug.Log("Quit");

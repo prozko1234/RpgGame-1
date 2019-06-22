@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+/*! \brief UiManager description.
+ *         Handles user interface functionality.
+ */
 public class UiManager : MonoBehaviour {
 
     public Slider healthBar;

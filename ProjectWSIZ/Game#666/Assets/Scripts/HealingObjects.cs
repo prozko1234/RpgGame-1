@@ -1,7 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*! \brief HealingObjects description.
+ *         Handels healing game objects.
+ *
+ *  This script makes heal to objects that colide with game objects that have this script.
+ */
 public class HealingObjects : MonoBehaviour {
     GameObject target;
     public float healingAmount;
@@ -24,13 +28,4 @@ public class HealingObjects : MonoBehaviour {
             }
         }
     }
-
-    //private void OnTriggerStay2D(Collider2D collision)
-    //{
-    //    if (collision.gameObject.tag != "Enemy" && Time.time > lastTimeHeal + timer)
-    //    {
-    //        collision.gameObject.SendMessage("Heal", 5);
-    //        lastTimeHeal = Time.time;
-    //    }
-    //}
 }

@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*! \brief QuestManager description.
+ *         Handles quests functionality.
+ */
 public class QuestManager : MonoBehaviour {
 
     public QuestObject[] quests;
@@ -9,9 +11,5 @@ public class QuestManager : MonoBehaviour {
 
 	void Start () {
         questCompleted = new bool[quests.Length];
-	}
-	
-	void Update () {
-		
 	}
 }

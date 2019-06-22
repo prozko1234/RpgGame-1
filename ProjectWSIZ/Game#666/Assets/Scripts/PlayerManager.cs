@@ -4,7 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-
+/*! \brief PlayerManager description.
+ *         Handles player functionality.
+ *
+ *  This script providse functionality for player object.
+ */
 public class PlayerManager : MonoBehaviour {
     public HealthSystem playerHealth;
     private Animator anim;
@@ -26,7 +30,10 @@ public class PlayerManager : MonoBehaviour {
         CheckIsAlive();
         Attack();
     }
-
+    //! Check is alive method.
+    /*!
+     * Checks is player alive, if not saves score and starts level from the begining.
+    */
     public void CheckIsAlive()
     {
         if (playerHealth.currentHealth <= 0) {
@@ -34,12 +41,18 @@ public class PlayerManager : MonoBehaviour {
             Reload();
         }
     }
-    
+    //! Reload method.
+    /*!
+     * Loads menu scene.
+    */
     void Reload()
     {
         SceneManager.LoadScene(0);
     }
-
+    //! Attack method.
+    /*!
+     * Makes this object to make attack with setted damage if it is possible because of setted attack delay.
+    */
     private void Attack()
     {
         if (Input.GetKeyDown(KeyCode.Mouse0))
@@ -58,7 +71,11 @@ public class PlayerManager : MonoBehaviour {
             anim.SetBool("Attack", false);
         }
     }
-
+    //! Is Atacking method
+    /*!
+     * Check is player attacking.
+     * \return boolean.
+     */
     public bool IsAttacking()
     {
         return attacking;

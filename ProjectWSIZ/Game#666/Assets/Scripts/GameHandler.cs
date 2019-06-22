@@ -5,7 +5,11 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
 using System;
 using UnityEngine.SceneManagement;
-
+/*! \brief GameHandler description.
+ *         Handles game management functionality.
+ *
+ *  This script providse functionality for saving player's score.
+ */
 public class GameHandler : MonoBehaviour
 {
     public PlayerStats playerStats;
@@ -102,27 +106,25 @@ public class GameHandler : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyUp(KeyCode.E))
-        {
-            Save();
-        }
-        if (Input.GetKeyUp(KeyCode.R))
-        {
-            //Load();
-        }
         if (Input.GetKeyUp(KeyCode.Escape))
         {
             ExitToMenu();
         }
     }
-
+    //! Exit to menu method.
+    /*!
+     * Changes scene on menu and save player's current score.
+    */
     public void ExitToMenu()
     {
         Save();
         SceneManager.LoadScene(0);
 
     }
-
+    //! Save score method.
+    /*!
+     * Saves player's current score to save file.
+    */
     public void Save()
     {
         File.AppendAllText(filePath,

@@ -1,7 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*! \brief PlayerStats description.
+ *         Handles player stats functionality.
+ *
+ *  This script providse functionality for player's stats.
+ */
 public class PlayerStats : MonoBehaviour {
 
     private PlayerManager playerManager;
@@ -36,12 +40,18 @@ public class PlayerStats : MonoBehaviour {
             
         score = (int)playerManager.playerHealth.GetCurrentHealth() + currentExp*10; 
 	}
-
+    //! Add experiance method
+    /*!
+     * Adds setted value to players experiance.
+     */
     public void AddExperience(int expirienceToAdd)
     {
         currentExp += expirienceToAdd;
     }
-
+    //! Level up method
+    /*!
+     * Sets level to the next one and changes stats for stats from new level.
+     */
     public void LvlUp()
     {
         currentLvl++;
